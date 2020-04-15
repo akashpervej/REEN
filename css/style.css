@@ -1,0 +1,377 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.body{
+
+}
+.top-header{
+	background: #F5F7FA;
+}
+.left-top{
+
+}
+.left-top ul {
+    list-style: none;
+    display: flex;
+    padding: 5px;
+    margin: 0px 0px 0 0px;
+}
+.left-top ul li {
+    padding: 5px;
+    font-size: 12px;
+}
+.left-top ul li a {
+    color: #5A728C;
+    margin: 0px 5px 0 0px;
+    font-size: 12px;
+}
+.left-top ul li a i {
+    color: #5A728C;
+    margin: 0px 5px 0 0;
+}
+.right-top{
+
+}
+.right-top ul{
+	list-style: none;
+	float: right;
+	display: flex;
+    padding: 5px;
+    margin: 0px 0px 0 0px;
+}
+.right-top ul li{
+	padding: 5px;
+    font-size: 12px;
+}
+.right-top ul li a{
+	color: #5A728C;
+    margin: 0px 5px 0 0px;
+    font-size: 12px;
+}
+.right-top ul li a i{
+	color: #5A728C;
+    margin: 0px 5px 0 0;
+}
+.right-top ul li a i:hover{
+	color: #08c;
+}
+.main-header {
+    background: white;
+    padding: 15px 0 15px 0;
+}
+.navbar-light .navbar-nav .nav-link {
+    padding: 10px;
+    color: #506A85;
+}
+.main-header ul {
+    margin: 0 15px 0 0;
+    color: #506A85;
+    margin-left: 20px;
+}
+.main-header ul li {
+    font-size: 12px;
+    font-weight: 700;
+    margin: 0px 5px 0 5px;
+}
+.main-header ul li a{
+
+}
+.nav-right ul li a{
+	color: #506A85;
+}
+.banner .container-fluid{
+	padding: 0px;
+}
+.banner{
+	width: 100%;
+
+}
+.banner-inner{
+	width: 100%;
+}
+.carousel-item img{
+	width: 100%;
+}
+.carousel-caption{
+	bottom: 30%;
+}
+.banner-inner h1 {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 42px;
+}
+.banner-inner p {
+    color: #A3B1BF;
+    line-height: 25px;
+    padding: 5px 0px 35px 0px;
+}
+.banner-inner a {
+    background: #00BC9C;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.features{
+	padding-bottom: 30px;
+}
+.features-intro {
+    text-align: center;
+    padding-top: 70px;
+}
+.features-intro h1{
+	color: #506A85;
+}
+.features-intro h4 {
+    padding: 20px 50px 0 50px;
+    color: #506A85;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.features-inner{
+	padding-top: 50px;
+}
+.features-inner ul{
+	list-style: none;
+	display: flex;
+}
+.features-inner ul li{
+	
+}
+.features-inner ul li a{
+	
+}
+.features-inner ul li a i {
+    font-size: 65px;
+    color: #00BC9C;
+}
+.features-text {
+    padding: 0px 0px 0px 20px;
+    color: #506A85;
+}
+
+.features-inner .features-text h3{
+	
+}
+.features-inner .features-text p {
+    text-align: justify;
+    padding-top: 10px;
+}
+.portfolio{
+	background: #F2F5F7;
+	padding-top: 30px;
+}
+.port-intro {
+    text-align: center;
+    padding-top: 40px;
+
+}
+.port-intro h1{
+	color: #506A85;
+}
+.port-intro h4 {
+    padding: 10px 0px 60px 0px;
+    color: #506A85;
+    font-size: 16px;
+}
+.port-card{
+	text-align: center;
+	color: #506A85;
+	padding-top: 
+}
+.port-card .card h6{
+
+}
+.port-card .card p{
+	
+}
+.why{
+	text-align: center;
+	padding: 70px;
+}
+
+.why-inner h1 {
+    color: #506A85;
+    font-weight: 700;
+    line-height: 42px;
+}
+.why-inner p {
+    color: #A3B1BF;
+    line-height: 25px;
+    padding: 5px 0px 35px 0px;
+}
+.why-inner a {
+    background: #00BC9C;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.owl-carousel{
+	padding: 70px 0 70px 0;
+}
+.owl-carousel .item{
+
+}
+.contact{
+	background: #2F4052;
+	padding: 30px 0 30px 0;
+}
+.contact .contact-inner {
+    padding: 20px 5px 20px 5px;
+}
+.contact .contact-inner .fa .fa-arrow-right{
+    
+}
+.contact .contact-inner h3{
+	color: white;
+}
+.contact .contact-inner img{
+	padding: 10px 0 10px 0;
+}
+
+.contact .contact-inner p {
+    color: #A3B1BF;
+    padding: 10px 0px 0px 0;
+}
+.contact .contact-inner h6{
+	color: #A3B1BF;
+}
+.contact-inner .mb-4{
+	margin: 0px !important;;
+	padding: 5px;
+}
+.contact-inner .card{
+	border-radius: 0px;
+}
+.contact-inner .card img{
+	padding: 0px;
+}
+.contact .contact-inner .search-box form{
+	display: flex;
+}
+.search-box input {
+    padding: 7px;
+    border-radius: 3px;
+    border: none;
+    background: #4E5C6C;
+}
+.contact .contact-inner .search-box button {
+    background: #00BC9C;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 0 15px 0 15px;
+    margin-left: 5px;
+}
+.contact-inner ul {
+    list-style: none;
+}
+.contact-inner ul li {
+    padding: 5px 0 5px 0;
+    font-size: 12px;
+}
+.contact-inner ul li a {
+    color: #A3B1BF;
+    margin: 0px 0px 0 0px;
+    font-size: 15px;
+}
+.contact-inner ul li a i {
+    color: #A3B1BF;
+    margin: 0px 10px 0 10px;
+    font-size: 20px;
+}
+.footer{
+	background: #283645;
+	padding: 30px 0 30px 0;
+}
+.footer-inner p{
+  color:#707E8C;
+  margin: 0px;
+}
+.social-icons {
+  list-style:none;
+  margin: 0px;
+}
+.social-icons li {
+	padding: 0 10px 0 10px;
+	display: inline-block;
+	float: right;
+}
+.social-icons ul{
+	float: right;
+	display: inline-block;
+}
+.social-icons li.title {
+  text-transform:uppercase;
+  color:#707E8C;
+  font-weight:700;
+  font-size:13px
+}
+.social-icons a{
+  color:#707E8C;
+  font-size:16px;
+  display:inline-block;
+  text-align:center;
+}
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .features-intro h1 {
+    color: #506A85;
+    font-size: 27px;
+}
+.banner-inner h1{
+	font-size: 30px;
+}
+.banner-inner p{
+	padding: 0 0 5px 0;
+	display:none;
+} 
+}
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  .features-intro h1 {
+    color: #506A85;
+    font-size: 27px;
+}
+.banner-inner h1{
+	font-size: 30px;
+}
+.carousel-caption {
+    bottom: 10%;
+}
+.banner-inner p{
+	padding: 0 0 5px 0;
+	display: none;
+}
+}
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+.carousel-caption {
+    bottom: 10%;
+}
+  
+}
+
+
